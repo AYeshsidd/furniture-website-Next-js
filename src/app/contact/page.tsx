@@ -4,7 +4,7 @@ import { TbClockHour4Filled } from "react-icons/tb";
 import { TbPhoneFilled } from "react-icons/tb";
 import { FaLocationDot } from "react-icons/fa6";
 
-export default function contact() {
+export default function Contactpage() {
     return (
         <>
           
