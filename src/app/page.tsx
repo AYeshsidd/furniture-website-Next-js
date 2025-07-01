@@ -1,10 +1,6 @@
-import Header from "./component/Header";
-import Myfooter from "./component/Myfooter";
 import Browse from "./component/Browse";
 import Wallpic from "./component/Wallpic";
-
 import Image from "next/image";
-
 export default function Home(){
   return(
     <>
