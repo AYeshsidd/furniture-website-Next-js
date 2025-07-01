@@ -3,7 +3,7 @@ import { IoStarSharp } from "react-icons/io5";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import Image from "next/image";
-export default function Singalproduct() {
+export default function Cartbar() {
     return(
     <>
      <div className="md:flex justify-evenly  ">
