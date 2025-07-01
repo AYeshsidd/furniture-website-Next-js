@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { useState } from "react";
 import Prefotter from "../component/Prefooter";
-export default function Home() {
+export default function Checkoutpage() {
   const [selectedOption, setSelectedOption] = useState<string>(
     "Direct Bank Transfer"
   );
