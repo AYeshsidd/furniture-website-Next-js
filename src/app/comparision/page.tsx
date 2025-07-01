@@ -1,6 +1,5 @@
 import { RiArrowDropDownLine } from "react-icons/ri";
 import Image from "next/image";
-import Link from "next/link";
 import { IoStarSharp } from "react-icons/io5";
 import Prefotter from "../component/Prefooter";
 export default function Product() {
