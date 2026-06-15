@@ -1,5 +1,4 @@
-import Header from "./component/Header";
-import Myfooter from "./component/Myfooter";
+
 import Browse from "./component/Browse";
 import Wallpic from "./component/Wallpic";
 

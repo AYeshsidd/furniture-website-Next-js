@@ -11,7 +11,7 @@ export default function contact() {
           
                <div className="bg-cover bg-center bg-no-repeat bg-[url('/blur.png')] h-[316px]">
                           <div className="relative top-[15%] left-[50%] transform -translate-x-1/2 flex justify-center flex-col items-center">
-                              <Image src={"/mainlogo.png"} width={77} height={77} alt="Logo" />
+                              <Image src={"/mainlogo.png"} width={77} height={77} alt="Logo" priority />
                               <h3 className="font-bold text-2xl md:text-3xl">Contact</h3>
                               <div className="flex gap-2">
                                   <span className="font-medium text-base">Home | </span>
