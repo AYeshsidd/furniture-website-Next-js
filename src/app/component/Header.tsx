@@ -16,7 +16,7 @@ export default function Header(){
         </div>
 
         <div className="my-5 md:w-[430px] md:h-24 left[505px] mx-6 flex flex-wrap justify-center space-x-6 md:space-x-10 text-sm md:text-base mb-4 md:mb-0">
-          <Link href="http://localhost:3000" className=" hover:text-yellow-600">Home</Link>
+          <Link href="/" className=" hover:text-yellow-600">Home</Link>
           <Link href="./shop" className=" hover:text-yellow-600 ">Shop</Link>
           <Link href="./blog" className=" hover:text-yellow-600">Blog</Link>
           <Link href="./contact" className=" hover:text-yellow-600">Contact</Link> 

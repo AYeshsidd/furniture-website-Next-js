@@ -3,7 +3,7 @@ import Prefotter from "../component/Prefooter";
 import { FaTag } from "react-icons/fa6";
 import Image from "next/image";
 import { IoManSharp } from "react-icons/io5";
-export default function contact() {
+export default function Blog() {
     return (
         <>
         

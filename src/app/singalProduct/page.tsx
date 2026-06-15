@@ -3,7 +3,6 @@ import { IoStarSharp } from "react-icons/io5";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import Image from "next/image";
-import Link from "next/link";
 export default function Singalproduct() {
     return(
     <>

@@ -1,11 +1,10 @@
 import Prefotter from "../component/Prefooter";
 import Image from "next/image";
 import { TbClockHour4Filled } from "react-icons/tb";
-import { IoIosArrowForward } from "react-icons/io";
 import { TbPhoneFilled } from "react-icons/tb";
 import { FaLocationDot } from "react-icons/fa6";
 
-export default function contact() {
+export default function Contactpage() {
     return (
         <>
           

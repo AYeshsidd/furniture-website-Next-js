@@ -1,9 +1,8 @@
 import { RiArrowDropDownLine } from "react-icons/ri";
 import Image from "next/image";
-import Link from "next/link";
 import { IoStarSharp } from "react-icons/io5";
 import Prefotter from "../component/Prefooter";
-export default function Product() {
+export default function Comparisionpage() {
     return (
         <>
             <div className="bg-cover bg-center bg-no-repeat bg-[url('/blur.png')] h-[316px]">
